@@ -1,0 +1,12 @@
+// JavaScript source code
+{
+ “manifest_version”: 2,
+“name”: “EyeNeedRest”,
+ “description”: “Every twenty minutes you will be notified to take a break from your screen”,
+ “version”: “1.0”,
+“page_action”: {
+ “default_icon”: “img.png”,
+ “default_popup”: “popup.html”,
+ “default_title”: “My custom google page!”
+ }
+}
